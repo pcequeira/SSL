@@ -1,11 +1,11 @@
 # • Sintaxis y Semántica de los Lenguajes
 
- ## • Curso K2115
+ ##  Curso K2115
  
- ## • 2025
+ ##  2025
  
- ## • 2034979
+ ## 2034979
  
- ## • Cequeira
+ ## Cequeira
  
- ## • Paula Soledad
+ ## Paula Soledad
